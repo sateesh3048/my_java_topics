@@ -9,3 +9,8 @@ can you override a static method in child class?
 6) How can you make a class immutable in java?
 
 <img width="470" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/c2746175-300c-4497-b412-33031f6a9fd7">
+
+7)What is single ton class in java? How can we make class as singleton?
+
+<img width="944" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/313609ae-1186-4583-b912-d9b64284f5e2">
+
