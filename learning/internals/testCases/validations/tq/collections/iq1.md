@@ -96,6 +96,20 @@ Sorted Map interfacer :-
 <img width="227" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/86689ba5-2fb9-47af-8248-8606469e6bbb">
 
 
+###  Why Map does not support collection interface?
+
+
+
+<img width="934" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/3c81eb32-174f-40b2-aecd-7965fcda02ef">
+
+<img width="855" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/5aa542f5-d5a8-4c70-b33b-1f13c7254b87">
+
+#### Difference between fail-fast and fail-safe iterators? 
+
+
+<img width="946" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/c30d6c5b-6ae8-40fe-a89e-137f0b19c5f9">
+
+
 
 
 
