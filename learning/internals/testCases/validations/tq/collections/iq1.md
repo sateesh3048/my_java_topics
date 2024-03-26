@@ -96,7 +96,7 @@ Sorted Map interfacer :-
 <img width="227" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/86689ba5-2fb9-47af-8248-8606469e6bbb">
 
 
-###  <span style="color:red"> Why Map does not support collection interface? </span>
+##  <span style="color:red"> Why Map does not support collection interface? </span>
 
 
 
@@ -104,10 +104,29 @@ Sorted Map interfacer :-
 
 <img width="855" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/5aa542f5-d5a8-4c70-b33b-1f13c7254b87">
 
-#### Difference between fail-fast and fail-safe iterators? 
+## Difference between fail-fast and fail-safe iterators? 
 
 
 <img width="946" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/c30d6c5b-6ae8-40fe-a89e-137f0b19c5f9">
+
+## What do you understand by blocking queue?
+
+<img width="958" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/e6512f8f-7e14-43e4-ae14-cefa10825f8b">
+
+## Difference between Synchronized Collection and Concurrent Collection ?
+
+<img width="950" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/a79f7312-3f13-4488-8482-a6a73bdb0d6b">
+<img width="845" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/07bbfa18-dbf0-48e6-9808-04f84a93eeeb">
+
+## Internal working of Hash Map 
+
+<img width="959" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/80e46717-9994-44aa-801e-0b0ee066d6ac">
+
+<img width="833" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/b5711759-d797-4105-aef1-6383534da28d">
+
+
+
+
 
 
 
