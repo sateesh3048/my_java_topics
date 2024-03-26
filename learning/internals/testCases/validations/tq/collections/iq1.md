@@ -1,4 +1,4 @@
-1) Explain collections Hierarchy?
+## Explain collections Hierarchy? 
 
    Collection is root/parent interface for all interfaces. Except Map rest of  the interfaces(i.e List, Queue, Set) are inherited from Collection interface.
    
@@ -96,7 +96,7 @@ Sorted Map interfacer :-
 <img width="227" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/86689ba5-2fb9-47af-8248-8606469e6bbb">
 
 
-###  Why Map does not support collection interface?
+###  <span style="color:red"> Why Map does not support collection interface? </span>
 
 
 
