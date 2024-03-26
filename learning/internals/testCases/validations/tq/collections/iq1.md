@@ -46,6 +46,64 @@ Stack :-
 
 <img width="372" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/c57ca42f-b998-4c1c-8897-93f16aca34ab">
 
+Set Interface :-
+
+<img width="811" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/d334a640-51d4-4b0c-8488-90f821bd0bb2">
+
+Hash Set Class :-
+
+<img width="365" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/7bb73bb5-bd0f-4a48-af64-c752216e4103">
+
+Linked Hash Set class :-
+
+<img width="316" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/379001cf-a109-44ae-abd3-01fb39d897fa">
+
+Tree Set class :-
+
+<img width="243" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/f95cdf2a-0387-424d-aabe-5dda29478464">
+
+<img width="233" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/c4453db4-565b-4f94-9cef-6f8f51843fb8">
+
+Queue Interface :-
+
+<img width="868" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/f4c3bf13-9dca-4ce7-a8b0-ed573cb9dcca">
+
+DeQueu Interface :-
+
+<img width="231" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/8f4d850c-ccae-4e08-9391-4e30081749c7">
+
+
+ArrayDequeue :-
+
+<img width="229" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/0300be6a-6cfd-47a5-96ab-9920cf0857db">
+
+Map Interface :-
+
+<img width="888" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/b05c92e7-2a59-4df1-ad08-15fea01592d3">
+
+Hash Map class :-
+
+<img width="370" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/493b0721-ac26-468a-9ce0-bacccf624b2f">
+
+Hash Table class :-
+
+<img width="367" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/5b7d94fe-09b8-41ee-8f7e-dc58a9089a22">
+
+Sorted Map interfacer :-
+
+<img width="220" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/c3d489a5-e75f-4c6a-b5a6-48cf16f9d05e">
+
+<img width="227" alt="image" src="https://github.com/sateesh3048/my_java_topics/assets/1171883/86689ba5-2fb9-47af-8248-8606469e6bbb">
+
+
+
+
+
+
+
+
+
+
 
 
 
