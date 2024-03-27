@@ -1,3 +1,6 @@
+Set Yourselves a Goal - Spend at least **28 minutes everyday**, with this course, for the next week.
+
+
 1. Why Java8 ? Main agenda behind Java 8? ❓
 2. What are the new features introduced in java8 ❓
 3. What are advantages of java 8 ❓
